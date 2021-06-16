@@ -14,7 +14,7 @@
         "guzzlehttp/guzzle": "^6.3",
         "intervention/image": "^2.5",
         "intervention/imagecache": "^2.4",
-        "laravel/framework": "^7.0",
+        "laravel/framework": "^7.30",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^2.0",
         "livewire/livewire": "^1.2"
